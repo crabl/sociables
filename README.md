@@ -2,7 +2,7 @@
 ### Please play responsibly!
 
 ## How to Play
-Run `npm install` and then run `npm app` to start playing!
+Run `npm install` and then run `npm start` to start playing!
 
 ## Editing the Ruleset
 Each rule is defined as an object with three properties: 
