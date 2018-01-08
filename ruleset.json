@@ -1,0 +1,129 @@
+[{
+    "name": "ASSHOLE/GOD",
+    "frequency": 1,
+    "description": "Lick the back of the card and stick it to your forehead. For as long as the card is stuck there, you are an all-powerful cosmic genie. If someone knocks the card off, they must finish their own drink."
+}, {
+    "name": "BEER BITCH",
+    "frequency": 1,
+    "description": "You must fetch drinks for the rest of the players until the next Beer Bitch card is drawn."
+}, {
+    "name": "BOX HEAD",
+    "frequency": 1,
+    "description": "Put an empty box on your head until another player draws a Box Head card, or until another rule cancels it."
+}, {
+    "name": "BOXING GLOVES",
+    "frequency": 1,
+    "description": "You must do everything with your hands clenched in fists: even drinking and picking up cards. This card is in play until another Boxing Gloves card is drawn."
+}, {
+    "name": "BUDDY SYSTEM",
+    "frequency": 1,
+    "description": "Pick a buddy. When one drinks, so does their buddy until the next buddy system card is drawn"
+}, {
+    "name": "CATEGORIES",
+    "frequency": 1,
+    "description": "Selects a category (for example, 'brands of beer'). All players go around the circle naming items that are from that category. The first player to fail to name an item must drink."
+}, {
+    "name": "DRINK 'TIL YA DIE",
+    "frequency": 1,
+    "description": "Finish your drink immediately. Do not pass 'GO'. Do not collect $200."
+}, {
+    "name": "FLOOR",
+    "frequency": 1,
+    "description": "The last person to touch the floor after this card is drawn must drink."
+}, {
+    "name": "FUZZY DUCK",
+    "frequency": 1,
+    "description": "Starting with the drawer of this card, go around the circle alternating saying 'Fuzzy Duck' and 'Ducky Fuzz'. If someone says 'Duzzy Fuck', they must drink and the round ends."
+}, {
+    "name": "GIVE TWO",
+    "frequency": 1,
+    "description": "Make one other player take two drinks, or two other players take one drink each."
+}, {
+    "name": "HEADS OR TAILS",
+    "frequency": 1,
+    "description": "Flip a coin. If it’s Heads, take a drink. If it's Tails, give someone else a drink."
+}, {
+    "name": "HOT SEAT",
+    "frequency": 1,
+    "description": "Going around the circle, each player must ask the drawer of the card a question. If the drawer refuses to answer, they must drink."
+}, {
+    "name": "JACK OF ALL TRADES",
+    "frequency": 1,
+    "description": "When this card is drawn (traditionally the Jack), the players on either side of you must agree on a task/dare for you to complete."
+}, {
+    "name": "LADIES DRINK",
+    "frequency": 1,
+    "description": "If you identify as a female, take a drink."
+}, {
+    "name": "LITTLE GREEN MAN",
+    "frequency": 1,
+    "description": "You must remove an imaginary little man from your cup every time you drink, and put him back after. If another player catches you failing to do so, you must drink again."
+}, {
+    "name": "MEN DRINK",
+    "frequency": 1,
+    "description": "If you identify as a male, take a drink."
+}, {
+    "name": "MOOSE",
+    "frequency": 1,
+    "description": "As soon as this card is drawn, all players must immediately place their thumbs to their forehead with fingers spread, resembling antlers. The last player to do this must drink."
+}, {
+    "name": "NEVER HAVE I EVER",
+    "frequency": 1,
+    "description": "All players raise three fingers. Starting with the player who drew the card, go around the circle confessing something that you have never done. Eg. 'Never have I ever … rode a bike.' If a player HAS done something that’s been said, they must lower one finger. When at least one player has all three fingers down, the round ends, and all players must drink as many times as fingers they have lowered."
+}, {
+    "name": "QUESTION MASTER",
+    "frequency": 1,
+    "description": "You are now the 'Question Master'. Any time you ask another player a question, if that player answers it, they must drink."
+}, {
+    "name": "RHYME TIME",
+    "frequency": 1,
+    "description": "Choose a word. Starting to the left, all players go around the circle saying words that rhyme with the original. No word can be said twice. The first player to fail to say a word or who says a word that doesn’t rhyme must take a drink."
+}, {
+    "name": "RULE CARD",
+    "frequency": 1,
+    "description": "Create a new rule. Rules can be anything. If a player fails to follow the rule, they must drink. This rule remains in effect until another Rule Card is drawn. Note – a rule can be trumped by a wielder of an Asshole/God card."
+}, {
+    "name": "SEVENS",
+    "frequency": 1,
+    "description": "Go around the circle counting upwards. Any time you reach a multiple of 7 or a number with 7 in it, say “Fuck you” and change directions. The first player to mess up takes a drink and the round ends."
+}, {
+    "name": "SHUFFLE",
+    "frequency": 1,
+    "description": "All players must switch places."
+}, {
+    "name": "MEDUSA",
+    "frequency": 1,
+    "description": "The holder of this card has 'Medusa eyes', meaning that any time they make eye contact with another player, that player must drink."
+}, {
+    "name": "SOCIABLE!",
+    "frequency": 1,
+    "description": "EVERYBODY DRINKS!"
+}, {
+    "name": "SPELLING BEE",
+    "frequency": 1,
+    "description": "Pick someone to spell a word of your choice. If they are unable to spell the word correctly, they must drink."
+}, {
+    "name": "STAND",
+    "frequency": 1,
+    "description": "Stand on one foot until your next turn, or take one drink."
+}, {
+    "name": "STORY TIME",
+    "frequency": 1,
+    "description": "Starting with the player who drew this card, create a story one word at a time. For example, the first player might say “Once”, the second player would continue “Once upon” and so on. The first player to miss a word or repeat the story incorrectly must drink and the round ends."
+}, {
+    "name": "TAKE TWO",
+    "frequency": 1,
+    "description": "Take two drinks."
+}, {
+    "name": "YOU ARE THE MOOSE",
+    "frequency": 1,
+    "description": "You are now the 'MOOSE'. Any time you place your hands on your head in the form of antlers, every other player must immediately do the same. The last person to do so must take a drink. This can be done repeatedly until another 'YOU ARE THE MOOSE' card is drawn."
+}, {
+    "name": "TROLL CARD",
+    "frequency": 1,
+    "description": "The person who draws this card has to continue play from the floor, under the table (like a troll under a bridge), until the next Troll card is pulled."
+}, {
+    "name": "VAGINA GAME",
+    "frequency": 1,
+    "description": "Replace one word in a movie title with the word Vagina. Example – Harry Potter and the Philosopher's Vagina. The first person who cannot name one drinks, and the turn ends."
+}]
